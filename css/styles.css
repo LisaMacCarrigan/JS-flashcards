@@ -5,6 +5,10 @@
   padding: 10px;
 }
 
+.yellow {
+  background-color: #ffffa5;
+}
+
 .visible {
   display: block;
 }
