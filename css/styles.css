@@ -1,0 +1,12 @@
+.col-sm-4 {
+  border-style: solid;
+  border-width: thin;
+}
+
+.visible {
+  display: block;
+}
+
+.hidden {
+  display: none;
+}
