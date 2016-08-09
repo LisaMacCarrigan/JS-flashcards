@@ -1,6 +1,8 @@
 .col-sm-4 {
   border-style: solid;
   border-width: thin;
+  height: 200px;
+  padding: 10px;
 }
 
 .visible {
